@@ -2,10 +2,10 @@
 
 ### Abstract:
 
-The reasons for migration decision are extremely complex. Classical models of mi-
+The reasons for migration decision are extremely complex. Classical models of mi
 gration reason that these decisions are driven by push-pull mechanisms. However,
-these models often fail to explain why two seemingly identical individuals with sim-
-ilar push and pull factors may produce differing migration behaviours. To address
+these models often fail to explain why two seemingly identical individuals with similar 
+push and pull factors may produce differing migration behaviours. To address
 this discrepancy, we turn to behavioural economics for insight. In this paper, I
 develop a dynamic micro-migration choice model in which present-biased agents
 attempt to solve their migration decision problems under uncertainty. This model
