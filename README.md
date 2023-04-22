@@ -13,3 +13,18 @@ for failed migration attempts, and introducing present bias through hyperbolic
 discounting. Utilizing computational methods, I demonstrate that when
 migration costs are considered, the probability of migration decreases with present
 bias for agents with identical observable characteristics.
+
+
+Full references for Code:
+
+We borrow our hyperbolic discounting appraoch from:
+
+@article{fedus2019hyperbolic,
+  title={Hyperbolic discounting and learning over multiple horizons},
+  author={Fedus, William and Gelada, Carles and Bengio, Yoshua and Bellemare, Marc G and Larochelle, Hugo},
+  journal={arXiv preprint arXiv:1902.06865},
+  year={2019}
+} 
+
+The general Value iteration and epsilon greedy algorithms have been borrowed from:
+
