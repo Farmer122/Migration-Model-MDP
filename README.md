@@ -17,13 +17,15 @@ bias for agents with identical observable characteristics.
 
 Full references for Code:
 
-We borrow our hyperbolic discounting appraoch from:
-
-
+The code and intuition for our hyperbolic discounting appraoch is borrowed from:
 
 [Google Brain - Hyperbolic discounting and learning over multiple horizons authors: Fedus, William and Gelada, Carles and Bengio, Yoshua and Bellemare, Marc G and Larochelle, Hugo](https://github.com/google-research/google-research/tree/master/hyperbolic_discount)
 
 and the corresponding [paper](https://arxiv.org/pdf/1902.06865.pdf)
 
-The general Value iteration and epsilon greedy algorithms have been borrowed from:
+The general MDP appraoch and Value iteration/epsilon greedy algorithms have been based on:
+
+Sutton and A. Barto. Reinforcement Learning: An Introduction. MIT Press, 2018.
+
+
 
