@@ -21,7 +21,7 @@ We borrow our hyperbolic discounting appraoch from:
 
 
 
-[Google Brain -Hyperbolic discounting and learning over multiple horizons authors: Fedus, William and Gelada, Carles and Bengio, Yoshua and Bellemare, Marc G and Larochelle, Hugo](https://github.com/google-research/google-research/tree/master/hyperbolic_discount)
+[Google Brain - Hyperbolic discounting and learning over multiple horizons authors: Fedus, William and Gelada, Carles and Bengio, Yoshua and Bellemare, Marc G and Larochelle, Hugo](https://github.com/google-research/google-research/tree/master/hyperbolic_discount)
 
 and the corresponding [paper](https://arxiv.org/pdf/1902.06865.pdf)
 
