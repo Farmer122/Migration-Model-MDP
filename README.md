@@ -9,8 +9,8 @@ push and pull factors may produce differing migration behaviours. To address
 this discrepancy, we turn to behavioural economics for insight. In this paper, I
 develop a dynamic micro-migration choice model in which present-biased agents
 attempt to solve their migration decision problems under uncertainty. This model
-expands on previous approaches by incorporating repeated migration decisions, ac
-counting for failed migration attempts, and introducing present bias through hy
-perbolic discounting. Utilizing computational methods, I demonstrate that when
+expands on previous approaches by incorporating repeated migration decisions, accounting 
+for failed migration attempts, and introducing present bias through hyperbolic 
+discounting. Utilizing computational methods, I demonstrate that when
 migration costs are considered, the probability of migration decreases with present
 bias for agents with identical observable characteristics.
