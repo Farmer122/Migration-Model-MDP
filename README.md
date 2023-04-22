@@ -1,5 +1,4 @@
-# The effects of Present Bias on Migration Decision:
-Insights from a Markov Decision Process Approach
+# The effects of Present Bias on Migration Decision: Insights from a Markov Decision Process Approach
 
 Abstract:
 
