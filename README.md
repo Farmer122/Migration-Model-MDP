@@ -27,7 +27,7 @@ and the corresponding [paper](https://arxiv.org/pdf/1902.06865.pdf)
 
 Sutton and A. Barto. Reinforcement Learning: An Introduction. MIT Press, 2018.
 
-In addition the [Quant Econ guides on Dynamic Programming within Economics](https://quantecon.org/notebooks/) have been of immense help
+In addition the [Quant Econ guides on Dynamic Programming within Economics](https://quantecon.org/notebooks/) have been of immense help for design of the MDP.
 
 
 
