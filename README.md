@@ -19,12 +19,11 @@ Full references for Code:
 
 We borrow our hyperbolic discounting appraoch from:
 
-@article{fedus2019hyperbolic,
-  title={Hyperbolic discounting and learning over multiple horizons},
-  author={Fedus, William and Gelada, Carles and Bengio, Yoshua and Bellemare, Marc G and Larochelle, Hugo},
-  journal={arXiv preprint arXiv:1902.06865},
-  year={2019}
-} 
+
+
+[Google Brain -Hyperbolic discounting and learning over multiple horizons authors: Fedus, William and Gelada, Carles and Bengio, Yoshua and Bellemare, Marc G and Larochelle, Hugo](https://github.com/google-research/google-research/tree/master/hyperbolic_discount)
+
+and the corresponding [paper](https://arxiv.org/pdf/1902.06865.pdf)
 
 The general Value iteration and epsilon greedy algorithms have been borrowed from:
 
