@@ -28,5 +28,11 @@ The general MDP appraoch and Value iteration/epsilon greedy algorithms have been
 
 Sutton and A. Barto. Reinforcement Learning: An Introduction. MIT Press, 2018.
 
+In addition the Quant Econ guides on Dynamic Programming within Economics have been of immense help:
+
+https://quantecon.org/notebooks/
+
+
+
 
 
