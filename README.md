@@ -18,6 +18,8 @@ bias for agents with identical observable characteristics.
 
 #### The intuition for our hyperbolic discounting appraoch is borrowed from:
 
+Fedus, W et al. (2019) “Hyperbolic discounting and learning over multiple horizons”. arXiv preprint arXiv:1902.06865
+
 Code:
 [Google Brain - Hyperbolic discounting and learning over multiple horizons authors: Fedus, William and Gelada, Carles and Bengio, Yoshua and Bellemare, Marc G and Larochelle, Hugo](https://github.com/google-research/google-research/tree/master/hyperbolic_discount)
 
@@ -25,7 +27,7 @@ and the corresponding [paper](https://arxiv.org/pdf/1902.06865.pdf)
 
 #### The general MDP appraoch and Value iteration/epsilon greedy algorithms have been based on:
 
-Sutton and A. Barto. Reinforcement Learning: An Introduction. MIT Press, 2018.
+Sutton, R.S. and Barto, A.G. (2015) Reinforcement learning: An introduction. Massachusetts: MIT Press Ltd. 
 
 In addition the [Quant Econ guides on Dynamic Programming within Economics](https://quantecon.org/notebooks/) have been of immense help for design of the MDP.
 
