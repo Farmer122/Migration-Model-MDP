@@ -27,11 +27,18 @@ and the corresponding [paper](https://arxiv.org/pdf/1902.06865.pdf)
 
 #### The general MDP appraoch and Value iteration/epsilon greedy algorithms have been based on:
 
-Sutton, R.S. and Barto, A.G. (2015) Reinforcement learning: An introduction. Massachusetts: MIT Press Ltd. 
+Sutton, R.S. and Barto, A.G. (2015) Reinforcement learning: An introduction. Massachusetts: MIT Press Ltd.
 
-In addition the [Quant Econ guides on Dynamic Programming within Economics](https://quantecon.org/notebooks/) have been of immense help for design of the MDP.
+Further Resources for code:
 
+The [Quant Econ guides on Dynamic Programming within Economics](https://quantecon.org/notebooks/) have been of immense help for design of the MDP.
 
+https://stackoverflow.com/questions/61519294/implementing-q-value-iteration-from-scratch
 
+https://wandb.ai/wandb/common-ml-errors/reports/How-To-Use-GPU-with-PyTorch---VmlldzozMzAxMDk 
 
+https://towardsdatascience.com/implement-value-iteration-in-python-a-minimal-working-example-f638907f3437
 
+https://www.geeksforgeeks.org/epsilon-greedy-algorithm-in-reinforcement-learning/
+
+https://stackoverflow.com/questions/56726682/problems-with-coding-markov-decision-process
